@@ -1,5 +1,1 @@
 pandas
-
-[server]
-enableXsrfProtection = false
-enableCORS = false
